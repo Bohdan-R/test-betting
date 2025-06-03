@@ -17,5 +17,6 @@ npm run dev
 ---
 
 ## Description
-When the application starts, 100 random winning bets are created, as well as 30 random bets from players. Then, every minute, a drawing takes place, and the winning bet is added to the array of winning bets.
+At the start of the application, 100 random winning bets and 30 random player bets are generated.
+Then, every minute, a draw takes place and a winning bet is added to the array of winning bets.
 ```
